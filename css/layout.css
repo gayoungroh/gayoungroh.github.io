@@ -345,7 +345,6 @@ body{
 		display:inline-block;
 		left:50%;
 		right:auto;
-		border:1px solid;
 		transform:translateX(-50%);
 		-webkit-transform:translateX(-50%);
 		-moz-transform:translateX(-50%);
